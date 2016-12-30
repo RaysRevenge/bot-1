@@ -1,0 +1,6 @@
+{
+  "name": "Bot Number 1",
+  "description": "My first bot",
+  "repository": "https://github.com/RaysRevenge/bot-1",
+  "keywords": ["node", "express", "static"]
+}
