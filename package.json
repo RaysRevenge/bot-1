@@ -1,26 +1,24 @@
 {
-  "name": "Bot Number 1",
-  "version": "0.0.1",
-  "description": "My first bot",
-  "engines": {
-    "node": "5.9.1"
-  },
+  "name": "bot-1",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaysRevenge/bot-1.git"
   },
   "dependencies": {
     "ejs": "2.4.1",
     "express": "4.13.3"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/RaysRevenge/bot-1"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaysRevenge/bot-1/issues"
   },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "license": "MIT"
+  "homepage": "https://github.com/RaysRevenge/bot-1#readme"
 }
